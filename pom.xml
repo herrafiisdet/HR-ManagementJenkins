@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.syntax</groupId>
-    <artifactId>CucumberProjectHassan</artifactId>
+    <artifactId>2NDCucumberProjectHassan</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -107,7 +107,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <projectName>CucumberProjectHassan</projectName>  <!-- change done -->
+                            <projectName>2NDCucumberProjectHassan</projectName>  <!-- change done -->
                             <!-- optional, per documentation set this to "true" to bypass generation of Cucumber Reports entirely, defaults to false if not specified -->
                               <!-- change done in this line  we removed  <skip>false</skip>  -->
                             <!-- output directory for the generated report -->
