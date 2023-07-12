@@ -1,6 +1,6 @@
 Feature:  Login functionality
 
-  @regression @sprint1 @tc100
+  @regression @sprint1 @tc100 @smoke
   Scenario: Valid admin login
     #Given user is navigated to HRMS application  // its in Hooks class now
     When  user enters valid username and valid password

@@ -6,7 +6,7 @@ Feature: US-321 Searching the employee
     When user clicks on PIM option
     And user clicks on EmployeeList option
 
-  @regression @sprint4 @Smoke
+  @regression @sprint4 @smoke
   Scenario: Search employee by id
     #Given user is navigated to HRMS application             // its in Hooks class now
     #When user enters valid username and valid password      // MOVED TO BACKGROUND
@@ -18,7 +18,7 @@ Feature: US-321 Searching the employee
     And user clicks on search button
     Then user see employee information is displayed
 
-  @regression @sprint4 @Smoke @tc001
+  @regression @sprint4 @smoke @tc001
   Scenario: Search employee by name
     #Given user is navigated to HRMS application               // its in Hooks class now
     #When user enters valid username and valid password        // MOVED TO BACKGROUND

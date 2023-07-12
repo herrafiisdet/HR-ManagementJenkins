@@ -1,6 +1,6 @@
 Feature: Dashboard functionality
 
-  @regression @tc107 @sprint2
+  @regression @tc107 @sprint2 @smoke
   Scenario: Verify dashboard
     #Given user is navigated to HRMS application    // its in Hooks class now
     When  user enters valid username and valid password
