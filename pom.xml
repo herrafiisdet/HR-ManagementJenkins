@@ -87,6 +87,7 @@
                 </plugin>
 
 
+
             <!-- Here the steps to add "Maven mojo Plugin for cucumber reporting" this plugin needed to generate report
     1- search in google for "Maven cucumber report" this link will be first in
     search https://github.com/damianszczepanik/maven-cucumber-reporting
